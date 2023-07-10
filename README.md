@@ -3,7 +3,7 @@
 ## LangChain crash course
 -  based on PromptEngineering Crash course https://www.youtube.com/watch?v=5-fc4Tlgmro
 -  This repo has a Google Colab notebook, hosted at https://colab.research.google.com/drive/1gKpLkqGDFYdcjpK1653r2I13pr1_UKO_#scrollTo=plLzOPNFbJzA
--  This repo doesn't implement secret key management and exposes my OpenAI and HuggingFace secrets, but this account's usage has been capped at $5 to prevent abuse
+-  This repo doesn't implement secret key management and exposes my OpenAI and HuggingFace secrets, but this account's usage has been capped at $5 (with a $4 soft limit) to prevent abuse
 
 ## This Repo contains working examples for the following:
 
